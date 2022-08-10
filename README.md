@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Welcome To My Repository.
+## Welcome To My Github.
 
 [Website Link](https://imybh.live)
 
