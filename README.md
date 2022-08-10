@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**imybh/imybh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome To My Repository.
 
-Here are some ideas to get you started:
+[Website Link](https://imybh.live)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me:
+
+[<img align="left" alt="linkedin.com/in/imybh/" width="22px" src="https://img.icons8.com/color/344/linkedin.png" />][LinkedIn]
+[<img align="left" alt="twitter.com/imybh" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="instagram.com/imybh" width="22px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="instagram.com/imybh" width="22px" src="https://img.icons8.com/color-glass/344/github.png" />][Github]
+
+[LinkedIn]: https://www.linkedin.com/in/imybh/
+[twitter]: https://twitter.com/imybh
+[instagram]: https://instagram.com/imybh
+[Github]: https://github.com/imybh
